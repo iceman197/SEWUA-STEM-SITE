@@ -1,0 +1,2 @@
+# SEWUA V2500 uses Python standard-library HTTP server only.
+# No pip packages are required.
